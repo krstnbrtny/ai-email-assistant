@@ -43,3 +43,33 @@ Action: Investigate and resolve the checkout issue immediately.
 * API Integration
 * Prompt Engineering
 * Business Process Automation
+
+## Screenshots
+
+### Workflow Canvas
+
+
+### Gmail Trigger
+
+
+### OpenAI Analysis
+
+
+### Telegram Notification
+
+
+## Project Architecture
+
+Gmail → OpenAI GPT-4.1 Mini → Telegram
+
+## Business Value
+
+This automation reduces manual email review by automatically generating summaries, assigning priority levels, and recommending actions in real time.
+
+## Future Improvements
+
+* Slack Integration
+* Google Sheets Logging
+* Automatic Email Replies
+* CRM Integration
+* Sentiment Analysis
