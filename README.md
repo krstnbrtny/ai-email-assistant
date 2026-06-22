@@ -73,3 +73,17 @@ This automation reduces manual email review by automatically generating summarie
 * Automatic Email Replies
 * CRM Integration
 * Sentiment Analysis
+
+## Screenshots
+
+### Workflow Canvas
+![Workflow](workflow.png)
+
+### Gmail Trigger
+![Gmail Trigger](gmail-trigger.png)
+
+### OpenAI Analysis
+![OpenAI](openai-node.png)
+
+### Telegram Notification
+![Telegram](telegram-output.png)
